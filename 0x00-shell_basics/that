@@ -1,0 +1,17 @@
+Script started on 2023-08-30 13:19:46-07:00 [TERM="xterm" TTY="/dev/pts/11" COLUMNS="83" LINES="13"]
+# git add .
+# ^C
+# ^C
+# ^C
+# dfgkfjgf
+sh: 2: dfgkfjgf: not found
+# ^C
+# e
+sh: 3: e: not found
+# 
+# 
+# 
+# 
+# exit
+
+Script done on 2023-08-30 13:20:24-07:00 [COMMAND_EXIT_CODE="127"]
